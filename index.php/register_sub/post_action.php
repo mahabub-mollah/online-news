@@ -1,0 +1,1 @@
+{ "message": "Please fill up blank fields", "bg_color": "#FFEBE8","border_color": "red" }
